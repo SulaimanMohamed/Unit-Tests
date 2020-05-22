@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DipTestingExercises", "DipTestingExercises\DipTestingExercises.csproj", "{BFE1607B-5E35-4529-963D-B7560C388E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DipTestingExercises.Test", "DipTestingExercises.Test\DipTestingExercises.Test.csproj", "{CBB2CF17-AF92-4788-815B-CABAF1609801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{BFE1607B-5E35-4529-963D-B7560C388E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE1607B-5E35-4529-963D-B7560C388E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE1607B-5E35-4529-963D-B7560C388E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB2CF17-AF92-4788-815B-CABAF1609801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB2CF17-AF92-4788-815B-CABAF1609801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB2CF17-AF92-4788-815B-CABAF1609801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB2CF17-AF92-4788-815B-CABAF1609801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3747B11-82E5-4831-B023-73CA201F5572}
 	EndGlobalSection
 EndGlobal

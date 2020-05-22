@@ -1,0 +1,17 @@
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\nunit.engine.dll
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\nunit.engine.api.dll
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\DipTestingExercises.Test.dll
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\DipTestingExercises.Test.pdb
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\DipTestingExercises.exe
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\nunit.framework.dll
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\DipTestingExercises.pdb
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\DipTestingExercises.exe.config
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\nunit.framework.pdb
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\bin\Debug\nunit.framework.xml
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\obj\Debug\DipTestingExercises.Test.csprojAssemblyReference.cache
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\obj\Debug\DipTestingExercises.Test.csproj.CoreCompileInputs.cache
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\obj\Debug\DipTestingExercises.Test.csproj.CopyComplete
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\obj\Debug\DipTestingExercises.Test.dll
+C:\Users\Sulai\Projects\UnitTests\DipTestingExercises.Test\obj\Debug\DipTestingExercises.Test.pdb
